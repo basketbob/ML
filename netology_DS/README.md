@@ -44,12 +44,12 @@
 * Монетизация больших данных
 * Характеристики и источники данных
 * Культура сбора данных
-* Основы реализации проектов больших данных. Кейс-стади
+* [Основы реализации проектов больших данных. Кейс-стади](https://docs.google.com/document/d/1mkNmEXrM4F5JkEeoC3nXU4wSWhWRP5JGH-2ZWjTOs6w/edit?usp=sharing)
 * Основные характеристики больших данных и виды анализа данных. Продвинутые методы анализа больших данных
-* NoSQL-подход
+* [NoSQL-подход](https://github.com/basketbob/ML/blob/main/netology_DS/Nosql-script.js)
 * MapReduce-подход
-* Введение в Hadoop
-* Практическое задание по аналитике данных и его разбор
+* [Введение в Hadoop](https://github.com/basketbob/ML/blob/main/netology_DS/homework7_spark_KuzinVS.ipynb)
+* Практическое задание по аналитике данных и его разбор: [Задание](https://docs.google.com/document/d/19QXet91tXFrXFdZ75xH0O1FGElJdav50mNAPfsO7KoU/edit?usp=sharing), [SQL](https://github.com/basketbob/ML/blob/main/netology_DS/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F_python_%D0%9A%D1%83%D0%B7%D0%B8%D0%BD%D0%92%D0%A1.ipynb), [теория](https://docs.google.com/document/d/1G_dBiGPAyl3tNYPafr3T-5ELzOgi03tHyNsN1f_PlFs/edit), [Crisp-DM](https://docs.google.com/document/d/1JyArMElJ7M_lcAHqhmy2-4dTY4NfnKSJbcM8tJJaBs0/edit?usp=sharing), [Таблица 1](https://docs.google.com/spreadsheets/d/19gOdQSiTVZanSjC13mpe4OSV6a7nnW8ldzVMPNEG9DM/edit?usp=sharing), [Таблица 2](https://docs.google.com/spreadsheets/d/1A-wkQIDvYT7t3gMWF0i2Hvp6c8N69bb0nVFXZ-vo7fM/edit?usp=sharing), [Таблица 3](https://docs.google.com/spreadsheets/d/1oqVQuJ9xuN5Lbl8fBH3mY3e8rYZ3mCQie4CgjvYn1NM/edit?usp=sharing)
 
 ### Python для анализа данных
 * [Базовые типы данных и циклы](https://github.com/basketbob/ML/blob/main/netology_DS/PYDA_35_KuzinVS_lesson1.ipynb)
