@@ -56,13 +56,12 @@
 * [Функции и классы](https://github.com/basketbob/ML/blob/main/netology_DS/PYDA_34_KuzinVS_lesson7.ipynb)
 * [Продвинутые типы данных: массивы, множества, словари](https://github.com/basketbob/MDS/blob/main/netology_DS/PYDA_35_KuzinVS_lesson3.ipynb)
 * Библиотеки для анализа данных: [NumPy](https://github.com/basketbob/ML/blob/main/netology_DS/Numpy_33_KuzinVS_lesson1.ipynb), [Pandas](https://github.com/basketbob/ML/blob/main/netology_DS/numpy_33_lesson4_kuzinvs.ipynb), [Web-Scrap](https://github.com/basketbob/ML/blob/main/netology_DS/web_scraping_KuzinVS.ipynb), Matplotlib
-* Визуализация в Python
-* Базовые понятия статистики
-* Случайные события. Случайные величины
-* Логистическая регрессия и дискриминационный анализ
-* Корреляция и корреляционный анализ
-* Доверительные интервалы. Статистическая проверка гипотез для несвязанных выборок
-* Дисперсионный анализ и виды ошибок. А/В-тесты
+* [Визуализация в Python](https://github.com/basketbob/ML/blob/main/netology_DS/dz2_stpy_32_kuzinvs.ipynb)
+* [Базовые понятия статистики](https://github.com/basketbob/ML/blob/main/netology_DS/dz1_spty_.ipynb)
+* [Случайные события. Случайные величины](https://github.com/basketbob/ML/blob/main/netology_DS/DZ3_stpy_32_KuzinVS.ipynb)
+* [Логистическая регрессия и дискриминационный анализ](https://github.com/basketbob/ML/blob/main/netology_DS/DZ5_stpy_32_KuzinVS.ipynb)
+* [Корреляция и корреляционный анализ](https://github.com/basketbob/ML/blob/main/netology_DS/DZ4_stpy32_KuzinVS.ipynb)
+* [Доверительные интервалы. Статистическая проверка гипотез для несвязанных выборок](https://github.com/basketbob/ML/blob/main/netology_DS/DZ6_stpy32_KuzinVS.ipynb)
 
 ### Математика для анализа данных
 * Линейная алгебра. Вектора
