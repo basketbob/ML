@@ -64,14 +64,15 @@
 * [Доверительные интервалы. Статистическая проверка гипотез для несвязанных выборок](https://github.com/basketbob/ML/blob/main/netology_DS/DZ6_stpy32_KuzinVS.ipynb)
 
 ### Математика для анализа данных
-* Линейная алгебра. Вектора
-* Линейная алгебра. Матрицы
-* Продвинутая линейная алгебра
-* Математический анализ. Производная
-* Производная функции нескольких аргументов
-* Теория оптимизации
-* Теория вероятностей. Дискретные и непрерывные случайные величины
+* [Линейная алгебра. Вектора](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_hw1_KuzinVS.ipynb)
+* [Линейная алгебра. Матрицы](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_hw2_KuzinVS.ipynb)
+* [Продвинутая линейная алгебра](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_HW3_KuzinVS.ipynb)
+* [Математический анализ. Производная](https://github.com/basketbob/MDS/blob/main/netology_DS/mds24_HW4_KuzinVS.ipynb)
+* [Производная функции нескольких аргументов](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_HW5_KuzinVS.ipynb)
+* [Теория оптимизации](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_hw6_KuzinVS.ipynb)
+* [Теория вероятностей. Дискретные и непрерывные случайные величины](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_hw8_KuzinVS.ipynb)
 * Центральная предельная теорема и закон больших чисел
+* [Итоговая](https://github.com/basketbob/ML/blob/main/netology_DS/mds24_HWX_KuzinVS.ipynb)
 
 ## 3 ступень. Машинное обучение, Deep Learning и нейронные сети
 * Машинное обучение
