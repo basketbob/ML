@@ -77,11 +77,22 @@
 ## 3 ступень. Машинное обучение, Deep Learning и нейронные сети
 * Машинное обучение
 * Рекомендательные системы
-* Временные ряды
+  * [Рекомендации на основе содержания](https://colab.research.google.com/drive/1WqVONLLkP95XetVfJvtSXzNGb4kh1Jm6?usp=sharing)
+  * [Коллаборативная фильтрация](https://colab.research.google.com/drive/1tjhsyppTGJKXw5K_-NO-mckp3ARB8N_9?usp=sharing)
+* [Временные ряды](https://colab.research.google.com/drive/1JeWDq8LYUFXdj627KKKmUTEbDkUhI6tp?usp=sharing)
 * Нейронные сети
-* Компьютерное зрение
-* Обработка естественного языка
+  * [Сверточные](https://colab.research.google.com/drive/1HH5mQds4pnu3pd0dQ1XEc4XmJnZ2ZgOV?usp=sharing)
+  * [Рекуррентные](https://colab.research.google.com/drive/17Z7G7k-PjqmwS6N6wAzzU6KtJti4QPVL?usp=sharing)
+* [Компьютерное зрение](https://colab.research.google.com/drive/1JHKO2_43iAGK3tYHOnQTEvDGxhmDnGYx?usp=sharing)
+* [Обработка естественного языка](https://colab.research.google.com/drive/1oCMntC6kb1hcKVFf2WuoFmJFONG79-LB?usp=sharing)
 * Deep Learning
+  * [Основы](https://colab.research.google.com/drive/1Vvrkx5pr-YsC91bHUTK9b74OIi4SDmEL?usp=sharing)
+  * [Многослойная нейронная сеть](https://colab.research.google.com/drive/1wIyuYMtITK1DN8WiJh93ps_0LfLc2pIg?usp=sharing)
+  * [Сверточные сети](https://colab.research.google.com/drive/1UXlgG7JjCm6EguAOQ0oezmWZMWD94MnM?usp=sharing)
+  * [Современные сверточные архитектуры](https://colab.research.google.com/drive/1UZQyN2oZwfA4bC6eBGjTgHZL8p2AwuqY?usp=sharing)
+  * [Механизм внимания](https://colab.research.google.com/drive/1XQRUfF16eI0QGwmpbGXwdXm42mRpoVZH?usp=sharing)
+  * [Работа с текстом](https://colab.research.google.com/drive/1XYpAcwBcUGXWWXvHS4p0vAlGbntcifcJ?usp=sharing)
+  * [GAN's](https://colab.research.google.com/drive/1XCVtog9HYehksTpYLQne0rWgq-cyrL60?usp=sharing)
 
 ## 4 ступень. Soft Skills и управление проектами
 * Менеджмент data-проектов
