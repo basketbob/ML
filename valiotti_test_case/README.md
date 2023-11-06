@@ -1,12 +1,12 @@
 Тестовое задание Data Analyst
 
-Задача №1. Напишите SQL-запрос
+[Задача №1](https://github.com/basketbob/ML/blob/main/valiotti_test_case/Valiotti_task1.sql). Напишите SQL-запрос
 Имеется таблица city_population с населением городов: city (наименование города), population (численность населения).
 Необходимо написать запрос, который выводит город с минимальным населением.
 
 Результат — скрипт в формате .sql
 
-Задача №2. Напишите SQL-запрос
+[Задача №2](https://github.com/basketbob/ML/blob/main/valiotti_test_case/Valiotti_task2.sql). Напишите SQL-запрос
 Имеется таблица А такого вида:
 
 | ID | Name | Val |
@@ -27,13 +27,13 @@
 
 Результат — скрипт в формате .sql
 
-Задача №3. Напишите SQL-запрос
+[Задача №3](https://github.com/basketbob/ML/blob/main/valiotti_test_case/Valiotti_task3.sql). Напишите SQL-запрос
 Есть таблица пользователей user (user_id — id пользователя, installed_at — дата установки) и таблица активности client_session (user_id, created_at — таймстемп активности).
 Необходимо написать SQL-запрос который считает Retention 1, 3, 7 дня по пользователям с группировкой установок по месяцам (с января 2022-го года).
 
 Результат — скрипт в формате .sql
 
-Задача №4. Постройте дашборд в dash
+[Задача №4](https://github.com/basketbob/ML/blob/main/valiotti_test_case/Valiotti_dash_graphics.sql). Постройте дашборд в dash
 Дана таблица истории состояния игровой индустрии games.csv. Описание полей:
 ●  	Name - название проекта;
 ●  	Platform - платформа;
