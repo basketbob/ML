@@ -33,7 +33,7 @@
 
 Результат — скрипт в формате .sql
 
-[Задача №4](https://github.com/basketbob/ML/blob/main/valiotti_test_case/Valiotti_dash_graphics.sql). Постройте дашборд в dash
+[Задача №4](https://github.com/basketbob/ML/blob/main/valiotti_test_case/Valiotti_dash_graphics.ipynb). Постройте дашборд в dash
 Дана таблица истории состояния игровой индустрии games.csv. Описание полей:
 ●  	Name - название проекта;
 ●  	Platform - платформа;
